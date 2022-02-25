@@ -1,0 +1,7 @@
+/.idea
+/venvs
+/dist
+/__pycache__/
+/mg_crp/__pycache__/
+mg_crp.bin
+/main.build
